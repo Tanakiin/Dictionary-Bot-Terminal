@@ -67,4 +67,5 @@ while x == 1:
             else:
                 print('Error ⚠\nNot a Valid Option\n')
                 continue
-  
+          
+print('\nThank you for using DictionaryBot!')
